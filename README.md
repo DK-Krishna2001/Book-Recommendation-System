@@ -22,7 +22,7 @@ matching, which makes book recommendations relevant and accurate.
 Strong algorithms combined with a simplified front-end demonstrate how backend features and user interaction work together. All things considered, the book recommendation
 system is a powerful example of how machine learning and web development can work together to provide personalized reading recommendations for readers.
 
-# About this project
+## About this project
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest. Here is a demo, [Click here to run it live on server](https://book-recommendation45.herokuapp.com)
 
